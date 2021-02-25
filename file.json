@@ -1,0 +1,15 @@
+[
+  { 
+    "id": "0",
+    "value": "firstvalue"
+  },
+  { 
+    "id": "1",
+    "value": "secondvalue"
+  },
+  { 
+    "id": "2",
+    "value": "thirdvalue"
+  }
+
+]
